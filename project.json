@@ -1,0 +1,606 @@
+{
+    "dataset": "im-feeling-curious",
+    "description": "A collection of interesting Q&A pairs.",
+    "questions": [
+        {
+            "id": "unknown_id",
+            "question": "Who said a journey of a thousand miles begins with a single step?",
+            "answer": "In this quote, Lao Tzu is trying to express that great things start from humble beginnings. In the original, the text refers to \"1,000 li journey\". A li is an old Chinese measure of distance which converts to 360 miles or 576 km.e.",
+            "source": "http://www.bbc.co.uk/worldservice/learningenglish/movingwords/shortlist/laotzu.shtml"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Which is the smallest ocean in the world in terms of area?",
+            "answer": "With an area of 12 million square kilometers (5 million square miles), the Arctic Ocean is the smallest ocean - more than five times smaller than the Indian and Atlantic oceans.",
+            "source": "http://www.gdrc.org/oceans/world-oceans.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How many championships did Dale Earnhardt Sr win?",
+            "answer": "In total, Earnhardt -- known as \"The Intimidator\" for his aggressive driving -- won seven Winston Cup Championships and broke $30 million in career earnings. He died in a crash during the 2001 Daytona 500. Nascar racer Ralph Dale Earnhardt was born on April 29, 1951, in Kannapolis, North Carolina.",
+            "source": "http://www.biography.com/people/dale-earnhardt-9542044"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Do candles evaporate?",
+            "answer": "As a candle burns the wax melts and is drawn up the wick like when you dip a paper towel into a cup of water. The melted wax in the wick gets evaporated due to the heat from the flame, this dries the wick out which allows it to draw up more melted wax at a constant rate.",
+            "source": "http://www.reddit.com/r/explainlikeimfive/comments/1cohhh/eli5_where_does_the_wax_in_a_candle_go/"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Do octopuses have three hearts?",
+            "answer": "Octopuses have three hearts. Two branchial hearts pump blood through each of the two gills, while the third is a systemic heart that pumps blood through the body. Octopus blood contains the copper-rich protein hemocyanin for transporting oxygen.",
+            "source": "http://en.m.wikipedia.org/wiki/Octopus"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Which state has a law system based on the Napoleonic Code?",
+            "answer": "Unlike the other 49 states \u2013 civil law in Louisiana is based on the French Napoleonic Code. And, like most things in Louisiana, this system of laws is unique to the United States and has been influenced by different legal traditions including those of Spain and ancient Rome.",
+            "source": "http://www.glnolalaw.com/louisiana-real-estate-laws.htm"
+        },
+        {
+            "id": "unknown_id",
+            "question": "When did Italy become a state?",
+            "answer": "Italy became a nation-state belatedly - in 1861 when the city-states of the peninsula, along with Sardinia and Sicily, were united under King Victor EMMANUEL. An era of parliamentary government came to a close in the early 1920s when Benito MUSSOLINI established a Fascist dictatorship.",
+            "source": "http://www.nationsonline.org/oneworld/italy.htm"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Which cities have hosted the games more than once?",
+            "answer": "Seven cities have hosted the Olympic Games more than once: Athens (1896, and 2004 Summer Olympics), Paris (1900 and 1924 Summer Olympics), London (1908, 1948 and 2012 Summer Olympics), St. Moritz (1928 and 1948 Winter Olympics), Lake Placid (1932 and 1980 Winter Olympics), Los Angeles (1932 and 1984 Summer Olympics), ...",
+            "source": "http://en.wikipedia.org/wiki/List_of_Olympic_Games_host_cities"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How much does a square foot of granite weigh?",
+            "answer": "ANSWER: The weight of granite depends on its density. The average 3/4\" thick granite weighs 13 pounds per square foot, 1 1/4\" thick granite weighs around 18 to 20 pounds per square foot, and 2\" thick granite weighs about 30 pounds per square foot.",
+            "source": "http://www.marble-granites.com/resource-center/stone-selection/granite-countertops.aspx"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What capital city was originally known as Edo?",
+            "answer": "In 1868 Meiji moved the seat of imperial power from Kyoto to Edo Castle, renaming the city Tokyo (Eastern Capital). This was known as the Meiji Restoration, and signified that power was restored to the emperor, and the imperial and political capitals were once again unified.",
+            "source": "http://www.lonelyplanet.com/japan/tokyo/history"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Why do we put candles on top of a birthday cake?",
+            "answer": "As it turns out, putting candles on birthday cakes is a tradition that has been around for a long, long time. It can be traced back to the Ancient Greeks, who often burned candles as offerings to their many gods and goddesses.",
+            "source": "http://wonderopolis.org/wonder/why-do-we-blow-out-birthday-candles/"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What are the colors of the rainbow?",
+            "answer": "The colors of the rainbow in order are red, orange, yellow, green, blue, indigo and violet. A good way to remember it is ROY G. BIV. My five year old knows the correct way of which the colors of the rainbow goes. I've never seen a rainbow start with violet.",
+            "source": "http://www.enotes.com/homework-help/what-order-colors-rainbow-289367"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What height is considered a giant?",
+            "answer": "In humans, this condition is caused by over-production of growth hormone in childhood resulting in persons between 7 feet (84 inches) (2.13 m) and 9 feet (108 inches) (2.74 m) in height.",
+            "source": "http://en.m.wikipedia.org/wiki/Gigantism"
+        },
+        {
+            "id": "unknown_id",
+            "question": "When did West Virginia break away from Virginia?",
+            "answer": "West Virginia became a state following the Wheeling Conventions of 1861, in which 50 northwestern counties of Virginia decided to break away from Virginia during the American Civil War. The new state was admitted to the Union on June 20, 1863, and was a key Civil War border state.",
+            "source": "http://en.m.wikipedia.org/wiki/West_Virginia"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Are people from Holland called Dutch?",
+            "answer": "There are three terms we need to define: Holland, the Netherlands, and Dutch. In Old English dutch simply meant \u201cpeople or nation.\u201d (This also explains why Germany is called Deutschland in German.) Over time, English-speaking people used the word Dutch to describe people from both the Netherlands and Germany.",
+            "source": "http://blog.dictionary.com/demonym/"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Which finger nail grows the fastest?",
+            "answer": "On average, fingernails grow about one tenth of an inch in a month. The fastest growing nail is the one on your middle finger. The slowest growing nail is your thumb nail. Freshly cut nails grow faster than nails that aren't cut regularly.",
+            "source": "http://www.cutexnails.com/nail-care-center/nail-facts"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What grain is used in bourbon?",
+            "answer": "The typical grain mixture for bourbon, known as the mash bill, is a minimum of 51% corn, with the remainder being wheat, rye, and/or malted barley. A mash bill that contains wheat instead of rye produces what is known as a wheated bourbon.",
+            "source": "http://en.m.wikipedia.org/wiki/Bourbon_whiskey"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What team initially drafted Chauncey Billups?",
+            "answer": "Chauncey Ray Billups was born on September 25, 1976. He was drafted in 1997 by the Boston Celtics, but was traded midway through his first season to the Toronto Raptors. The Raptors traded him to the Nuggets, for whom he played as a backup point guard until 2000, when he was traded to the Orlando Magic.",
+            "source": "http://www.giantbomb.com/chauncey-billups/3005-6553/"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Where is Formosa?",
+            "answer": "The Republic of Formosa (literally Democratic State of Taiwan, also known informally in English as the Formosan Republic, Taiwan Republic or Republic of Taiwan) was a short-lived republic that existed on the island of Taiwan in 1895 between the formal cession of Taiwan by the Qing Dynasty of China to the Empire of ...",
+            "source": "http://en.wikipedia.org/wiki/Republic_of_Formosa"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How many chambers are in a dog's heart?",
+            "answer": "A dog's heart is divided into four chambers. The two top chambers are called the atria (single: atrium) whereas the bottom chambers are called the ventricles.",
+            "source": "http://www.petmd.com/dog/conditions/cardiovascular/c_dg_atrial_fibrillation_atrial_flutter"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Can you store onions and potatoes together?",
+            "answer": "NO PLASTIC BAGS: Don't ever store onions in plastic bags. That will accelerate sprouting and spoilage because of the lack of air circulation. NO POTATOES NEARBY: Potatoes and onions should not be stored together. They give off gases that will accelerate spoilage of each other.",
+            "source": "http://www.theyummylife.com/store_onions_garlic_shallots"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How many meters deep is the Grand Canyon?",
+            "answer": "The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,000 feet or 1,800 meters).",
+            "source": "http://en.wikipedia.org/wiki/Grand_Canyon"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How old is the oldest Galapagos tortoise?",
+            "answer": "Harriet (c. 1830 \u2013 June 23, 2006) was a Gal\u00e1pagos tortoise (Geochelone nigra porteri) who had an estimated age of 175 years at the time of her death in Australia. Harriet is the third oldest tortoise, behind Tu'i Malila, who died in 1965 at the age of 188, and Adwaita, who died in 2006 at the estimated age of 255.",
+            "source": "http://en.wikipedia.org/wiki/Harriet_(tortoise)"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Who was the third man on Apollo 11?",
+            "answer": "The successful completion of the first manned circum-lunar flight was followed by the announcement of the Apollo 11 crew of Neil Armstrong, Buzz Aldrin, and Michael Collins.",
+            "source": "http://en.wikipedia.org/wiki/Michael_Collins_(astronaut)"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What male actor has won the most Oscars?",
+            "answer": "In 1997, Jack Nicholson tied Walter Brennan for the most wins (3) for a male performer (Brennan has three Best Supporting Actor trophies, Nicholson has two for Best Actor and one for Best Supporting Actor). The only stars to win both a Best Actor and a Best Supporting Actor (BSA) Oscar are the following:",
+            "source": "http://www.filmsite.org/bestactor.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Which Star Wars has the Ewoks?",
+            "answer": "They first appeared in the film Star Wars Episode VI: Return of the Jedi (1983). They have since been featured in two made-for-television films, Caravan of Courage: An Ewok Adventure and Ewoks: The Battle for Endor, as well as an animated series and several books and games.",
+            "source": "http://en.m.wikipedia.org/wiki/Ewok"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How many Harry Potter books are there in total?",
+            "answer": "The Harry Potter books make up the popular series written by author J. K. Rowling. The series spans seven books (one for each of Harry Potter's years at Hogwarts). The books have been made into movies by Warner Bros.",
+            "source": "http://harrypotter.wikia.com/wiki/Harry_Potter_(book_series)"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Where do coconut crabs live?",
+            "answer": "Also known as the robber crab, the coconut crab is a species of terrestrial hermit crab found on islands across the Indian Ocean, parts of the Pacific Ocean and as far east as the Gambier Islands. The crab can weigh up to 9 lbs, reaching the upper size limit of terrestrial animals with exoskeletons.",
+            "source": "http://m.youtube.com/watch?v=z54da6-fz94"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What president moved Thanksgiving to the fourth Thursday in November?",
+            "answer": "Franklin Roosevelt observed Thanksgiving on the second to last Thursday of November for two more years, but the amount of public outrage prompted Congress to pass a law on December 26, 1941, ensuring that all Americans would celebrate a unified Thanksgiving on the fourth Thursday of November every year.",
+            "source": "http://docs.fdrlibrary.marist.edu/thanksg.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Which continent is the second largest land mass?",
+            "answer": "A continent is one of Earth's seven main divisions of land. The continents are, from largest to smallest: Asia, Africa, North America, South America, Antarctica, Europe, and Australia. When geographers identify a continent, they usually include all the islands associated with it.",
+            "source": "http://education.nationalgeographic.com/education/encyclopedia/continent/?ar_a=1"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What planet is yellow and orange?",
+            "answer": "Earth is by far the most dynamic planet when seen from space. Mars: red-orange; this color comes from rusty rocks on the surface since the clouds are rare and thin. Jupiter: has orange and white bands; the white bands are colored by ammonia clouds, while the orange comes from ammonium hydrosulfide clouds.",
+            "source": "http://curious.astro.cornell.edu/question.php?number=236"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Who has played Batman the most times?",
+            "answer": "Most have lasted for just one film, but with the release of The Dark Knight Rises, Christian Bale will become the first man to have played Bruce Wayne and his alter-ego more than twice on the silver screen. He didn't have much competition \u2013 Michael Keaton was the only other actor to reprise the role.",
+            "source": "http://www.denofgeek.com/movies/21717/the-7-actors-who-have-played-batman"
+        },
+        {
+            "id": "unknown_id",
+            "question": "When did the great fire of London take place?",
+            "answer": "The Great Fire of London started on Sunday, 2 September 1666 in a baker's shop belonging to Thomas Farynor. Although he claimed to have extinguished the fire, three hours later, at 1am, his house was a blazing inferno. Farynor's bakery was situated in Pudding Lane.",
+            "source": "http://www.london-fire.gov.uk/great-fire-of-london.asp"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What height to reach terminal velocity?",
+            "answer": "A falling person will reach terminal velocity after about 12 seconds, falling some 450 m (about 1,500 ft) in that time. That person will not then fall any faster, so it makes no difference what distance they fall if it is more than 1,500 ft - they will still reach the ground at the same speed.",
+            "source": "http://en.m.wikipedia.org/wiki/Free_fall"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How big is the London Eye?",
+            "answer": "The London Eye holds 32 capsules (although it is possible to board capsule number 33 as number 13 has been skipped). Visits last for one rotation, which takes about 30 minutes, and during that time visitors rise to a peak height of 443ft (135m).",
+            "source": "http://www.telegraph.co.uk/travel/destinations/europe/uk/london/10801520/London-Eye-complete-visitor-guide.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Which is the master gland in human body?",
+            "answer": "The thyroid gland, ovaries, testes, mammary glands, and the cortex of the adrenal glands are all stimulated by the hormones of the anterior pituitary, resulting in the pituitary gland being known as the \u201cmaster gland\u201d for its control of the endocrine system.",
+            "source": "http://www.innerbody.com/image/endo01.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Why are they called Granny Smith apples?",
+            "answer": "Granny Smith apples originated in Australia in 1868 when Maria Ann (Granny) Smith found a seedling growing by a creek on her property. This was the same place where she would toss French crab apples grown in Tasmania. The seedling bore light green colored apples that Granny Smith propagated.",
+            "source": "http://www.stemilt.com/fresh-fruit/apples/granny-smith-apples/"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Is there a difference between buffalo and bison?",
+            "answer": "Early American settlers called bison \u201cbufello\u201d due to the similar appearance between the two animals, and the name \"buffalo\" stuck for the American variety. But it's wrong. The American bison (Bison bison) lives only in North America, while the two main buffalo species reside in Africa and Asia.",
+            "source": "http://m.livescience.com/32115-bison-vs-buffalo-whats-the-difference.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Who invented the text message?",
+            "answer": "The SMS concept was developed in the Franco-German GSM cooperation in 1984 by Friedhelm Hillebrand and Bernard Ghillebaert. The first text message was sent in 1992 from Neil Papworth, a former developer at Sema Group Telecoms.",
+            "source": "http://mashable.com/2012/09/21/text-messaging-history/"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Who has the biggest signature on the Declaration of Independence?",
+            "answer": "Hancock was president of Congress when the Declaration of Independence was adopted and signed. He is primarily remembered by Americans for his large, flamboyant signature on the Declaration, so much so that \"John Hancock\" became, in the United States, an informal synonym for signature.",
+            "source": "http://en.wikipedia.org/wiki/John_Hancock"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How fast is terminal velocity of a bullet?",
+            "answer": "Hatcher calculated that his .30-caliber rifle bullets reached terminal velocity\u2014the speed at which air resistance balances the accelerating force of gravity\u2014at 300 feet per second. You might die from a bullet moving at that speed, but it's unlikely.",
+            "source": "http://www.slate.com/articles/news_and_politics/explainer/2011/03/watch_out_for_falling_bullets.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How long is the earth's circumference?",
+            "answer": "The circumference of Earth at the equator is about 24,902 miles (40,075 km), but from pole-to-pole \u2014 the meridional circumference \u2014 Earth is only 24,860 miles (40,008 km) around. This shape, caused by the flattening at the poles, is called an oblate spheroid.",
+            "source": "http://www.space.com/17638-how-big-is-earth.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Are killer whales sharks?",
+            "answer": "Orcas, or killer whales, are the largest of the dolphins and one of the world's most powerful predators. They feast on marine mammals such as seals, sea lions, and even whales, employing teeth that can be four inches (ten centimeters) long.",
+            "source": "http://animals.nationalgeographic.com/animals/mammals/killer-whale/"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What are the countries that surround Australia?",
+            "answer": "The nearest of these countries include Indonesia, Papua New Guinea, New Zealand, New Caledonia, the Solomon Islands and Vanuatu, which are all island nations or territories in the South-East Asian and Asia-Pacific regions.",
+            "source": "http://www.skwirk.com/p-c_s-16_u-132_t-373_c-1304/australia-s-nearest-neighbours/nsw/australia-s-nearest-neighbours/australia-in-its-regional-context/australia-s-place-in-the-region"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How many different types of sea creatures are there?",
+            "answer": "Over 1 million known species of plants and animals live there, and scientists say there may be as many as 9 million species we haven't discovered yet. Marine animals come in all kinds of weird shapes, sizes, and colors; and they live in all kinds of different environments within the ocean.",
+            "source": "http://school.discoveryeducation.com/schooladventures/planetocean/ocean.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Can females have adam apples?",
+            "answer": "Adam's apples are found on both women and men they just show up more prominently in men as a chunk of bony cartilage that's wrapped around the larynx. Also known as the laryngeal prominence, the Adam's apple sits right on top of the thyroid gland, so the area is fittingly called the thyroid cartilage.",
+            "source": "http://m.livescience.com/32470-why-do-we-have-an-adams-apple.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Who played the first Count Dracula?",
+            "answer": "Dracula is a 1931 vampire-horror film directed by Tod Browning and starring Bela Lugosi as the title character. The film was produced by Universal and is based on the 1924 stage play Dracula by Hamilton Deane and John L. Balderston, which in turn is loosely based on the novel Dracula by Bram Stoker.",
+            "source": "http://en.m.wikipedia.org/wiki/Dracula_(1931_film)"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Which is the worlds smallest country?",
+            "answer": "Based on landmass, Vatican City is the smallest country in the world, measuring just 0.2 square miles, almost 120 times smaller than the island of Manhattan. Situated on the western bank of the Tiber River, Vatican City's two-mile border is landlocked by Italy.",
+            "source": "http://www.history.com/news/ask-history/what-is-the-smallest-country-in-the-world"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Which element has the greatest density?",
+            "answer": "For chemistry students and teachers: The tabular chart on the right is arranged by Atomic number. The first chemical element with the lowest density is Hydrogen and the highest density is Osmium.",
+            "source": "http://www.lenntech.com/periodic-chart-elements/density.htm"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Who played Walt Disney in Saving Mr Banks?",
+            "answer": "The Story Behind Saving Mr. Banks, Starring Tom Hanks as Walt Disney. When Walt Disney's daughters were young, they loved a little book about a magical (and slightly sadistic) nanny named Mary Poppins. He promised them that he would someday make a movie out of the series, and 20 years later, he delivered.",
+            "source": "http://mentalfloss.com/article/51926/story-behind-saving-mr-banks-starring-tom-hanks-walt-disney"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What state was once an independent nation?",
+            "answer": "Although Mexico's war of independence pushed out Spain in 1821, Texas did not remain a Mexican possession for long. It became its own country, called the Republic of Texas, from 1836 until it agreed to join the United States in 1845.",
+            "source": "http://www.history.com/news/9-things-you-may-not-know-about-texas"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What percent of a watermelon is actually water?",
+            "answer": "You are looking for a firm, symmetrical watermelon that is free from bruises, cuts or dents. The watermelon should be heavy for it's size. Watermelon is 92% water, most of the weight is water. The underside of the watermelon should have a creamy yellow spot from where it sat on the ground and ripened in the sun.",
+            "source": "http://www.watermelon.org/faq/faq-funfacts.aspx"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What does a camel store inside its hump?",
+            "answer": "Camels do not store water in their humps, as it is commonly believed. The humps are actually reservoirs of fatty tissue. Concentrating body fat in their humps minimizes heat-trapping insulation throughout the rest of their body, which may be an adaptation to living in hot climates.",
+            "source": "http://timesofindia.indiatimes.com/home/stoi/What-does-the-camel-store-in-its-hump/articleshow/6882273.cms"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Are sea cucumbers animals or plants?",
+            "answer": "Description: Sea cucumbers are part of a larger animal group called Echinodermata, which also contains starfish and sea urchins. Their body shape is similar to a cucumber, but they have small tentacle-like tube feet that are used for locomotion and feeding.",
+            "source": "http://www.nwf.org/wildlife/wildlife-library/invertebrates/sea-cucumber.aspx"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What side is the tassel on before graduation?",
+            "answer": "In US graduation ceremonies, the side on which the tassel hangs can be important. Sometimes it is consistent among all students throughout the ceremony, in other cases it differs based on level of study with undergraduate students wearing the tassel on the right, and graduate student wearing them on the left.",
+            "source": "http://en.m.wikipedia.org/wiki/Square_academic_cap"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What were hamburgers called in World War 1?",
+            "answer": "During WW1, American hamburgers (named after the German city of Hamburg) were renamed Salisbury steak. Frankfurters, which were named after Frankfurt, Germany, were called \u201cliberty sausages,\" and dachshunds became \u201cliberty dogs.\u201d 7.",
+            "source": "http://www.quora.com/What-are-some-unknown-stories-about-World-War-I"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What house does Hermione belong to?",
+            "answer": "At age eleven, Hermione learned that she was a witch and had been accepted into Hogwarts School of Witchcraft and Wizardry. She began attending the school on 1 September, 1991 where she was subsequently sorted into Gryffindor House.",
+            "source": "http://harrypotter.wikia.com/wiki/Hermione_Granger"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How far can a cat fall without injury?",
+            "answer": "The average fall was 5.5 stories. Of the 115 cats studied, 90 per cent survived, including one cat that fell 32 stories onto a sidewalk and suffered only a mild chest injury and a chipped tooth. Interestingly, cats that fell from 9 or more stories suffered fewer injuries than those falling from lower heights.",
+            "source": "http://animals.howstuffworks.com/pets/domestic-cat-info5.htm"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What name is given to a group of kangaroos?",
+            "answer": "Kangaroos are often colloquially referred to as \"roos\". Male kangaroos are called bucks, boomers, jacks, or old men; females are does, flyers, or jills, and the young ones are joeys. The collective noun for kangaroos is a mob, troop, or court.",
+            "source": "http://en.wikipedia.org/wiki/Kangaroo"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Why is the left lung smaller than the right lung?",
+            "answer": "The left lung is slightly smaller than the right lung because 2/3 of the heart is located on the left side of the body. The left lung contains the cardiac notch, an indentation in the lung that surrounds the apex of the heart. Each lung consists of several distinct lobes.",
+            "source": "http://www.innerbody.com/anatomy/respiratory/lungs"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Are beans a fruit or a vegetable?",
+            "answer": "The other parts of plants are considered vegetables. These include the stems, leaves and roots \u2014 and even the flower bud. The following are technically fruits: avocado, beans, peapods, corn kernels, cucumbers, grains, nuts, olives peppers, pumpkin, squash, sunflower seeds and tomatoes.",
+            "source": "http://www.mayoclinic.org/healthy-living/nutrition-and-healthy-eating/expert-blog/fruit-vegetable-difference/bgp-20056141"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Can babies breathe through their mouths?",
+            "answer": "Newborns are \"obligate nose breathers.\" This means they can't breathe through their mouths in the first few months of life. Because babies have small nasal passages, they sound stuffy when they breathe.",
+            "source": "http://www.huffingtonpost.com/howard-j-bennett-md/why-newborns-have-stuffy-noses_b_4254692.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How old is the oldest person ever recorded?",
+            "answer": "No efforts seem to have been made to have him medically assessed or to call in representatives for the Guinness World Records. The current holder of the organisation's official accolade for oldest person ever is a French woman called Jeanne Louise Calment, who died in 1997 aged 122 years and 164 days.",
+            "source": "http://www.independent.co.uk/news/world/africa/is-this-160yearold-ethiopian-man-the-worlds-oldest-ever-person-8814763.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How old was Wayne Gretzky when he retired?",
+            "answer": "Wayne Gretzky, the greatest hockey player of all time, retired at age 38, right before the conclusion of the 1998-99 NHL season. Having led the league in assists two of the past three seasons and having led the Rangers in scoring for the third straight season, he certainly retired when he was on top.",
+            "source": "http://m.bleacherreport.com/articles/1798164-did-wayne-gretzky-retire-too-early"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Who was the first president to visit a foreign country while in office?",
+            "answer": "Teddy Roosevelt was the first President to travel abroad while in office; he visited the Panama Canal in 1906. In 1943 Franklin Roosevelt made the first Presidential flight. Richard Nixon was the first President to visit all 50 states.",
+            "source": "http://news.nationalgeographic.com/news/2004/08/0823_040823_presidentialtrivia_2.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How many steps does it take to walk 1 mile?",
+            "answer": "Generally speaking you can count on 2,000 steps will equal one mile. But, depending upon your length of stride it might take 2,500 steps to equal 1 mile. 9 holes of golf (no cart but walking) equals about 8,000 steps. Most people will get about 1,200 steps in about 10 minutes.",
+            "source": "http://www.stepup.excellusbcbs.com/healthInfo.jsp?catld=countingSteps&pg=0204Conversions.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Where is The Blair Witch Project?",
+            "answer": "The film relates the story of three student filmmakers (Heather Donahue, Michael C. Williams, and Joshua Leonard) who disappeared while hiking in the Black Hills near Burkittsville, Maryland in 1994 to film a documentary about a local legend known as the Blair Witch.",
+            "source": "http://en.m.wikipedia.org/wiki/The_Blair_Witch_Project"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Do you get paid to be a volunteer firefighter?",
+            "answer": "Volunteer firefighters do not get paid, but they can get reimbursed. Reimbursement is usually a small amount of tax-free money for time spent on shifts, responding to calls and training. The amount is usually at the discretion of the department.",
+            "source": "http://www.volunteerfd.org/become-a-volunteer-firefighter"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Who coined the phrase time is money?",
+            "answer": "The phrase was coined by Benjamin Franklin in his Advice to a Young Tradesman (1748): Remember that time is money. He that idly loses five shillings' worth of time loses five shillings, and might as prudently throw five shillings into the sea.",
+            "source": "http://www.quora.com/What-is-the-etymology-of-the-phrase-Time-is-Money"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How many times do you breathe in a day?",
+            "answer": "Each day we breathe about 20,000 times.",
+            "source": "http://kidshealth.org/teen/your_body/body_basics/lungs.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What kind of animal is Goofy?",
+            "answer": "Goofy is a funny animal cartoon character created in 1932 at Walt Disney Productions. Goofy is a tall, anthropomorphic dog, and typically wears a turtle neck and vest, with pants, shoes, white gloves, and a tall hat originally designed as a rumpled fedora.",
+            "source": "http://en.m.wikipedia.org/wiki/Goofy"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Why is the wedding ring worn on the ring finger?",
+            "answer": "According to a tradition believed to have been derived from the Romans, the wedding ring is worn on the left hand ring finger because there was thought to be a vein in the finger, referred to as the 'Vena Amoris' or the 'Vein of Love' said to be directly connected to the heart.",
+            "source": "http://www.todayifoundout.com/index.php/2010/09/the-origin-of-wedding-rings-and-why-theyre-worn-on-the-4th-finger-of-the-left-hand/"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Is Mercury Found in Nature?",
+            "answer": "Like lead or cadmium, mercury is a constituent element of the earth, a heavy metal. In pure form, it is known alternatively as \"elemental\" or \"metallic\" mercury (also expressed as Hg(0) or Hg0). Mercury is rarely found in nature as the pure, liquid metal, but rather within compounds and inorganic salts.",
+            "source": "http://www.greenfacts.org/en/mercury/l-3/mercury-1.htm"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How old do you have to be to be elected president?",
+            "answer": "Article 2 of the Constitution of the United States of America outlines the qualifications for becoming president. To even qualify to run for office, a candidate must be 35 years or older. The candidate must also be a natural born United States citizen.",
+            "source": "http://www.whitehousehistory.org/whha_classroom/documents/WHHA_Want-To-Be-President-Background-b.pdf"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How many miles does someone walk in a day?",
+            "answer": "The fitness gap detected by the pedometer studies is equal to about 30 to 40 minutes of walking each day. One mile of walking covers about 2,000 steps, researchers say. The health community typically urges people to take at least 10,000 steps a day to maintain good health, which is equal to about five miles of walking.",
+            "source": "http://well.blogs.nytimes.com/2010/10/19/the-pedometer-test-americans-take-fewer-steps/"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How long is the longest train in the world?",
+            "answer": "The record was set on june 21, 2001 in western australia between newman and port headland, a distance of 275km (170 miles) and the train consisted of 682 loaded iron ore wagons and 8 GE AC6000 locomotives giving a gross weight of almost 100,000 tonnes and moved 82,262 tonnes of ore, the train was 7.353 km (4.568 miles) ...",
+            "source": "http://m.youtube.com/watch?v=9LsuNWjRaAo"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What taste can cats not detect?",
+            "answer": "Cats Don't Taste Sweet, But Dogs Taste Salty. We have discussed recently the reasons organisms taste their food are related to nutritional needs (sweet, umami, salt, fat) and protection from toxins (sour, bitter).",
+            "source": "http://biologicalexceptions.blogspot.com/2014/02/cats-dont-taste-sweet-but-dogs-taste.html?m=1"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Are green and black olives the same?",
+            "answer": "The color of the olive corresponds to the ripeness of the fruit when picked. That's it. Green olives are picked before ripening, and black olives are picked while ripe.",
+            "source": "http://www.marksdailyapple.com/olives-difference-green-black/"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How many types of bones are there?",
+            "answer": "There are five types of bones in the human body: long, short, flat, irregular, and sesamoid.",
+            "source": "http://en.wikipedia.org/wiki/Bone"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Who invented the jumping jack?",
+            "answer": "The jumping jack is thought to have been invented by a general in the U.S. Army. Though many people attribute this exercise move to fitness guru Jack LaLanne, it is thought to have been invented by another Jack. John \"Black Jack\" Pershing was a tactical officer at West Point in the late 1800s.",
+            "source": "http://mobile.omgfacts.com/Technology/The-jumping-jack-is-thought-to-have-been/25710"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What color are grapes?",
+            "answer": "Grapes are a type of fruit that grow in clusters of 15 to 300, and can be crimson, black, dark blue, yellow, green, orange and pink. \"White\" grapes are actually green in color, and are evolutionarily derived from the purple grape.",
+            "source": "http://en.m.wikipedia.org/wiki/Grape"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How did the state of Florida get its name?",
+            "answer": "As mentioned above, Florida was named by Ponce de Leon in 1512. \"la Florida,\" he called this land, Spanish for flowery, covered with flowers, or abounding in flowers. Historians favor the idea that Ponce de Leon named the state because he discovered it on Easter or Palm Sunday.",
+            "source": "http://www.netstate.com/states/intro/fl_intro.htm"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Which country has the most camels in the world?",
+            "answer": "The Bactrian camel is, as of 2010, reduced to an estimated 1.4 million animals, most of which are domesticated. The only truly wild Bactrian camels, of which there are less than one thousand, are thought to inhabit the Gobi Desert in China and Mongolia. The largest population of feral camels is in Australia.",
+            "source": "http://en.m.wikipedia.org/wiki/Camel"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What was the first college in the colonies?",
+            "answer": "Harvard University uses as its founding date 1636, the year in which the legislature of the Massachusetts Bay Colony formally voted to budget funds for the creation of a college in Newtowne, later called Cambridge.",
+            "source": "http://en.wikipedia.org/wiki/First_university_in_the_United_States"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What is the color of the black box in a commercial airplane?",
+            "answer": "Black box or flight data recorder, mounted in the tail of an aircraft, is one of the most important gadgets that is used to reconstruct the events leading to a plane crash. The term \"Black Box\", however, is a misnomer as its colour is orange. This is done for easier location after a crash.",
+            "source": "http://www.dnaindia.com/india/report-importance-of-the-orange-coloured-black-box-1386780"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Which country has the most islands in the world?",
+            "answer": "The five main archipelagos are Indonesia, Japan, the Philippines, New Zealand, and the British Isles. The largest archipelagic state in the world, by area and population, is Indonesia. The archipelago with the most islands is the Archipelago Sea in Finland.",
+            "source": "http://en.wikipedia.org/wiki/Archipelago"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What was the first salaried baseball team?",
+            "answer": "The Cincinnati Red Stockings now know as the Cincinnati Reds of 1869 were baseball's first openly all-professional team, with ten salaried players.",
+            "source": "http://en.wikipedia.org/wiki/Cincinnati_Red_Stockings"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How many satellites are in space?",
+            "answer": "This definition makes our count much less because it includes only spacecraft and not debris that orbits the Earth. The Goddard Space Flight Center's lists 2,271 satellites currently in orbit. Russia has the most satellites currently in orbit, with 1,324 satellites, followed by the U.S. with 658.",
+            "source": "http://www.windows2universe.org/kids_space/sat.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What nations became members of NATO?",
+            "answer": "At present, NATO has 28 members. In 1949, there were 12 founding members of the Alliance: Belgium, Canada, Denmark, France, Iceland, Italy, Luxembourg, the Netherlands, Norway, Portugal, the United Kingdom and the United States.",
+            "source": "http://www.nato.int/cps/en/natolive/topics_52044.htm"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What great lake caught on fire?",
+            "answer": "When Lake Erie \u2013 or more exactly the Cuyahoga River which flows into Lake Erie \u2013 caught fire in 1969, it ignited a firestorm of public outrage over the indiscriminate dumping of sewage and industrial chemicals into the Great Lakes.",
+            "source": "http://www.environmentalcouncil.org/priorities/article.php?x=264"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What was the population of boston in 1776?",
+            "answer": "In 1776, the next largest cities were New York City (25,000 people), Boston (15,000), Charleston (12,000), and Newport (11,000). All are rough estimates as the U.S. Census enumeration did not begin until the 1790. Today, in 2012, the U.S. population has blossomed to 311 million.",
+            "source": "http://economistsoutlook.blogs.realtor.org/2012/07/03/largest-cities-in-the-united-states-in-1776-and-in-2076/"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How did Oklahoma get it's name?",
+            "answer": "Equivalent to the English word Indian, okla humma was a phrase in the Choctaw language used to describe the Native American race as a whole. Oklahoma later became the de facto name for Oklahoma Territory, and it was officially approved in 1890, two years after the area was opened to white settlers.",
+            "source": "http://en.wikipedia.org/wiki/Oklahoma"
+        },
+        {
+            "id": "unknown_id",
+            "question": "What sports were invented at the YMCA?",
+            "answer": "Basketball, volleyball and racquetball are all Y inventions. The Auburn Y's History Committee unearthed these stories about the creation of these sports. Basketball was invented at the YMCA in Springfield, Mass. in 1891 by Dr. James Naismith, a clergyman, educator and physician.",
+            "source": "http://auburnpub.com/lifestyles/popular-sports-invented-at-ymca/article_3d5a547f-eb3d-555e-84aa-dd06f2694084.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Why do only males have adam apples?",
+            "answer": "When the larynx grows larger during puberty, it sticks out at the front of the throat. This is what's called an Adam's apple. Everyone's larynx grows during puberty, but a girl's larynx doesn't grow as much as a boy's does. That's why boys have Adam's apples.",
+            "source": "http://m.kidshealth.org/kid/grow/boy/adams_apple.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Who is the youngest Prime Minister of India?",
+            "answer": "At 40, Mr. Rajiv Gandhi was the youngest Prime Minister of India, perhaps even one of the youngest elected heads of Government in the world. His mother, Smt. Indira Gandhi, was eight years older when she first became Prime Minister in 1966.",
+            "source": "http://pmindia.gov.in/pm_rajiv.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How long was Gilligan's Island on?",
+            "answer": "Gilligan's Island ran for a total of 98 episodes. The first season, consisting of 36 episodes, was filmed in black-and-white. These episodes were later colorized for syndication. The show's second and third seasons (62 episodes) and the three television movie sequels were filmed in color.",
+            "source": "http://en.m.wikipedia.org/wiki/Gilligan's_Island"
+        },
+        {
+            "id": "unknown_id",
+            "question": "How tall is a standard door?",
+            "answer": "Stock entry doors come in several standard sizes: Height: 80 inches (6 feet, 8 inches) Thickness: 1 \u00be inches. Width: 36 inches standard; 30 and 32 inch widths also in stock.",
+            "source": "http://www.homedepot.com/c/buying_exterior_doors_HT_BG_DW"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Why is it called the Continental Divide?",
+            "answer": "The Continental Divide, also called the Great Divide, is a natural boundary line separating waters that flow into the Atlantic Ocean or Gulf of Mexico from those that flow into the Pacific Ocean. It runs north-south from Alaska to northwestern South America.",
+            "source": "http://nationalatlas.gov/mld/condivl.html"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Why is a dog's nose wet?",
+            "answer": "Wet Nose, Cool Body. Moist noses are also one of the ways that canines can regulate body temperature and cool down. \u201cDogs don't have normal sweat glands, like people,\u201d says Dr. King, \u201cso they secrete sweat from the pads of their feet and their noses.\u201d",
+            "source": "http://www.vetstreet.com/our-pet-experts/why-does-my-dog-have-a-wet-nose"
+        },
+        {
+            "id": "unknown_id",
+            "question": "Which US state holds the record for the highest temperature ever officially observed in the United States?",
+            "answer": "Greenland Ranch, California, with 134\u00b0F on July 10, 1913, holds the record for the highest temperature ever officially recorded in the United States. This station is located in barren Death Valley which is about 140 mi long and 4\u201316 mi wide and runs north and south in southeastern California and southwestern Nevada.",
+            "source": "http://www.weatherexplained.com/Vol-1/Record-Setting-Weather.html"
+        }
+    ]
+}
